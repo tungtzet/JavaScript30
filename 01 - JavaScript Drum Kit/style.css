@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://images.unsplash.com/photo-1588032786045-59cefda005c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1965&q=80) bottom center;
   background-size: cover;
 }
 
@@ -19,7 +19,7 @@ body,html {
 }
 
 .key {
-  border: .4rem solid black;
+  border: .2rem solid rgb(160, 160, 160);
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
@@ -28,7 +28,7 @@ body,html {
   width: 10rem;
   text-align: center;
   color: white;
-  background: rgba(0,0,0,0.4);
+  background: rgba(228, 227, 227, 0.4);
   text-shadow: 0 0 .5rem black;
 }
 
